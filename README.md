@@ -1,6 +1,6 @@
-# validation2020
+# Flutter Validation Updated 2020
 
-A new Flutter project.
+A simple example of form validation using Provider Bloc
 
 ## Getting Started
 
